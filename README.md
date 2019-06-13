@@ -20,4 +20,4 @@ Delete all your Trello cards for a given board
       apiKey, token, boardId
     }
     ```
-1. In the terminal: `node index.js`
+1. In the terminal, run the script: `node index.js`
